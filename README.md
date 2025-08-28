@@ -1,6 +1,6 @@
 # Identificação
 
-* Nome: 
+* Nome: Brunno Weslley Borges Ribeiro
 * Email (@ccc): 
 * Matrícula: 
 
